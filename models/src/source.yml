@@ -1,0 +1,7 @@
+sources:
+  - name: d01_src
+    database: d01
+    schema: d01_sc
+    tables:
+      - name: orders
+      - name: customers

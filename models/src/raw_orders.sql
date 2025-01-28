@@ -1,0 +1,1 @@
+select * from {{ source('d01_src','orders') }}
